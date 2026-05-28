@@ -1,0 +1,20 @@
+# data & generated artifacts (don't commit the dataset or outputs)
+data/
+figures/
+results/
+*.npy
+*.csv
+!results/.gitkeep
+
+# python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# os / editor
+.DS_Store
+.idea/
+.vscode/
