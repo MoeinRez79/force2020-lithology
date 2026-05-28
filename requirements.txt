@@ -1,0 +1,8 @@
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+torch>=2.0
+lightgbm>=4.0
+tqdm>=4.65
+# optional, for reading raw .LAS well-log files instead of the competition CSV:
+# lasio>=0.31
