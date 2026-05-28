@@ -146,13 +146,3 @@ Download from the official competition repository. Labels are CC-BY-4.0; the
 well logs are released under the Norwegian License for Open Government Data
 (NLOD) 2.0. Cite the FORCE 2020 organisers in any write-up.
 
-## What to put on your CV / GitHub
-
-> *Reframed an open well-log benchmark as cost-sensitive 1D semantic
-> segmentation: a missingness-aware U-Net trained to minimise the competition's
-> penalty matrix directly, validated leave-one-well-out, beating a tuned
-> LightGBM baseline. Tools: PyTorch, LightGBM, scikit-learn, lasio.*
-
-That sentence signals you understood the *objective* and the *validation* — the
-two things that separate someone who ran a notebook from someone who can be
-trusted with subsurface data.
